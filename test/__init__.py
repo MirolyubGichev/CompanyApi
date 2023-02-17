@@ -1,0 +1,1 @@
+from djangoProject2 import settings
